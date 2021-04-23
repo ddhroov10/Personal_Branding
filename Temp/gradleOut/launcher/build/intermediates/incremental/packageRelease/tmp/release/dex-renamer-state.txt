@@ -1,0 +1,4 @@
+#Fri Apr 23 18:14:54 IST 2021
+base.0=C\:\\Users\\Dhroov\\Desktop\\DIS\\ARFoundation\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
